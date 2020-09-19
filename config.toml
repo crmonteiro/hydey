@@ -3,10 +3,9 @@ languageCode = "en-us"
 theme = "hyde"
 title = "A pé ou de carro"
 [params]
-  description = "E alguns dos sítios onde se vai dar"
+description = "E alguns dos sítios onde se vai dar"
 disqusShortname = ""
 googleAnalytics = ""
 layoutReverse = false
 theme = "hyde"
 themeColor = "theme-base-0a"
-
