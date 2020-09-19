@@ -1,6 +1,5 @@
 +++
 date = ""
-draft = true
 layout = "page"
 title = "O que é isto"
 
