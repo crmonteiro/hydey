@@ -1,10 +1,13 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 theme = "hyde"
-title = "My New Hugo Site"
+title = "A pé ou de carro"
 [params]
+  description = "Chega-se a qualquer lado"
+
 disqusShortname = ""
 googleAnalytics = ""
 layoutReverse = false
 theme = "hyde"
 themeColor = ""
+
