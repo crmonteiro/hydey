@@ -16,3 +16,5 @@ fields:
   default: []
   label: tags
   hidden: false
+pages:
+- content/posts/leitura-leve.md
